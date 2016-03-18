@@ -17,7 +17,7 @@ changed.trigger(value, function(_value){
 });
 ```
 
-Stupid changed is best use i a stream of data. Fx. scrolling.
+Stupid changed is best used in a stream of data. Fx. scrolling.
 
 ```js
 
