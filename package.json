@@ -1,6 +1,6 @@
 {
   "name": "stupid-changed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Update value if changed",
   "main": "changed.js",
   "scripts": {
